@@ -1,0 +1,43 @@
+.sidebar {
+    background: #3D59B4;
+}
+
+th {
+    font-size: 15px;
+}
+
+td {
+    font-size: 12px;
+}
+
+.btn-danger {
+    font-size: 12px;
+}
+
+.btn {
+    background: #3D59B4;
+    border: none;
+}
+
+.btn:hover {
+    transform: scale(1.075);
+    transition: 0.3s ease-in-out;
+}
+
+.categorias:hover {
+    transform: scale(1.075);
+    transition: 0.3s ease-in-out;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h5 {
+    color: #000;
+    text-decoration: none;
+}
